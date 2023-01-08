@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BoutrosLab.plotting.general"]
+	path = BoutrosLab.plotting.general
+	url = https://github.com/uclahs-cds/public-r-boutroslab-plotting-general
+	shallow = true
+	registered = true
