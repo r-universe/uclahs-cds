@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "BoutrosLab.plotting.general"]
 	path = BoutrosLab.plotting.general
-	url = https://github.com/uclahs-cds/public-r-boutroslab-plotting-general
+	url = https://github.com/uclahs-cds/package-boutroslab-plotting-general
