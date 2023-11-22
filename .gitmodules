@@ -5,3 +5,6 @@
 [submodule "BoutrosLab.plotting.general"]
 	path = BoutrosLab.plotting.general
 	url = https://github.com/uclahs-cds/package-boutroslab-plotting-general
+[submodule "CancerEvolutionVisualization"]
+	path = CancerEvolutionVisualization
+	url = https://github.com/uclahs-cds/package-cancerevolutionvisualization
