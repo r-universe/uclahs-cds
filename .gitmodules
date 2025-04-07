@@ -8,3 +8,6 @@
 [submodule "CancerEvolutionVisualization"]
 	path = CancerEvolutionVisualization
 	url = https://github.com/uclahs-cds/package-cancerevolutionvisualization
+[submodule "bedr"]
+	path = bedr
+	url = https://github.com/uclahs-cds/package-bedr
