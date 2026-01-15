@@ -7,7 +7,7 @@
 	url = https://github.com/uclahs-cds/package-boutroslab-plotting-general
 [submodule "CancerEvolutionVisualization"]
 	path = CancerEvolutionVisualization
-	url = https://github.com/uclahs-cds/package-cancerevolutionvisualization
+	url = https://github.com/uclahs-cds/public-r-cancerevolutionvisualization
 [submodule "VennDiagram"]
 	path = VennDiagram
 	url = https://github.com/uclahs-cds/package-venndiagram
